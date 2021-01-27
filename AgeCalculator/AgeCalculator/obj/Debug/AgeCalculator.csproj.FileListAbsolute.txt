@@ -1,0 +1,7 @@
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csprojAssemblyReference.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+F:\DotNetBatch2021\ConsoleAssignments\ConsoleAssignment-27-01-2021\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
